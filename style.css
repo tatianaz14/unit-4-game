@@ -1,0 +1,115 @@
+h3 {
+	margin: 20px 0px 10px 0px;
+	letter-spacing: 3px;
+}
+
+.header {
+	padding: 70px 0px 0px 0px;
+	color:black;
+}
+
+#value {
+    color: black;
+    letter-spacing: 5px;
+    
+}
+
+
+
+h3, #totalScore, #wins, #losses, .score {
+	color: BLACK;
+}
+
+.numbergenerator{
+    float:right;
+    text-align: center;
+    margin-top:-250px;
+    margin-right:180px;
+
+
+}
+#crystalValue
+{
+	color: black
+}
+h1 {
+	color: black;
+	margin: -18px 40px 75px 40px;
+	letter-spacing: 30px;
+	padding:20px;
+    display: inline-block;
+    border: 5px solid black;
+}
+
+.crystalimage1 {
+	display: flex;
+	height:200px;
+	width:200px;
+	margin: 30px auto;
+	border-radius:50%;
+	
+}
+
+.directions {
+	color: white;
+	text-align: center;
+    
+    
+}
+
+.directions p {
+    color:black;
+    margin-left: 200px;
+    margin-right:0px;
+    letter-spacing: 3px;
+    font-size:13px;
+    width:360px;
+   
+   
+    
+}
+.card-header {
+    background-color: black;
+    margin-left: 210px;
+    margin-right:60px;
+    padding-left:60px;
+    padding-right:40px;
+    letter-spacing: 15px;
+    width:360px;
+    border-radius:0em;
+}
+
+.card-header:first-child {
+    border-radius:calc(-0.75rem - 1px) calc(-1.75rem - 1px) 0 0;
+    
+
+}
+.score {
+	padding-top: 30px;
+	margin-bottom: 0;
+	font-size: 22px;
+	font-weight: 600;
+	letter-spacing: 3px;
+}
+
+.directions {
+    text-align: left;
+    margin-left:40px;
+	
+}
+
+#win-Lose {
+	color: black;
+}
+
+.total, .scores, .directions {
+	margin: auto;
+}
+
+.btn {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	color:black;
+	letter-spacing: 3px;
+}
